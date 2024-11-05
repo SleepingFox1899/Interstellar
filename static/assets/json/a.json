@@ -6,12 +6,6 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
     "name": "! [NEW] Request An App",
     "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
     "image": "/assets/media/icons/request.webp",
@@ -54,12 +48,6 @@
     "link": "https://www.temu.com/",
     "image": "/assets/media/icons/temu.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Character AI",
-    "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
-    "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Aptoide",
@@ -234,12 +222,6 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "Canva",
-    "link": "https://canva.com",
-    "image": "/assets/media/icons/canva.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Wikipedia",
     "link": "https://en.wikipedia.org",
     "image": "/assets/media/icons/wiki.webp",
@@ -312,12 +294,6 @@
     "image": "/assets/media/icons/whatsapp.webp",
     "categories": ["all", "message", "social"],
     "error": true
-  },
-  {
-    "name": "Wattpad",
-    "link": "https://www.wattpad.com/",
-    "image": "/assets/media/icons/wattpad.webp",
-    "categories": ["all", "social"]
   },
   {
     "name": "Discord - Login",
@@ -518,12 +494,6 @@
     "link": "https://github.com/005konz/Blooket-Cheats",
     "image": "/assets/media/icons/bl.webp",
     "categories": ["all", "bl", "cs"]
-  },
-  {
-    "name": "Edpuzzle Cheats",
-    "link": "https://github.com/ading2210/edpuzzle-answers",
-    "image": "/assets/media/icons/ep.png",
-    "categories": ["all", "ep", "cs"]
   },
   {
     "name": "DeepAI.org",
